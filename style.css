@@ -1,0 +1,105 @@
+body{
+  background: whitesmoke;
+  background-size: cover;
+}
+
+.photo1{
+  width: 650px;
+  background-color: white;
+  padding-bottom: 5%;
+  padding-top: 4%;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: auto;
+  border-radius: 2%;
+}
+
+.container1{
+  width: 650px;
+  background-color: white;
+  padding-bottom: 5%;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: auto;
+  border-radius: 2%;
+  margin-top: 2%;
+}
+.container2{
+  width: 650px;
+  background-color: white;
+  padding-bottom: 5%;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: auto;
+  border-radius: 2%;
+  margin-top: 2%;
+}
+
+.photoTim{
+  display: block;
+  width: 150px;
+  height: 150px;
+  margin:auto;
+  border-radius: 50%;
+  border: 5px solid lightgrey;
+}
+
+.NomID{
+  font-size: 35px;
+  color: darkred;
+  padding-top: 4%;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.textID{
+  text-align: center;
+  padding-top: 1.5%;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+h3{
+  font-size: 25px;
+}
+
+p{
+  text-align: left;
+  font-size: 22px
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 25px;
+  margin-right: 25px;
+  color: grey;
+  line-height:2em;
+}
+
+button{
+  background-color: darkred;
+  border: 2px;
+  text-align: center;
+  padding: 20px;
+  border-radius: 15px;
+  width:200px;
+}
+
+ul{
+  padding-top: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
+  display: inline-block;
+}
+
+i{
+width: 150px;
+height: 64px;
+height: auto;
+color: lightgrey;
+display: flex;
+}
+a{
+  color: lightgrey;
+}

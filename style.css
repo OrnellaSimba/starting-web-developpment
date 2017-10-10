@@ -16,8 +16,9 @@ body{
 
 .container1{
   width: 650px;
+  height: 150px;
   background-color: white;
-  padding-bottom: 5%;
+  padding-bottom: 2.5%;
   padding-left: 10px;
   padding-right: 10px;
   margin: auto;
@@ -87,19 +88,104 @@ button{
 }
 
 ul{
-  padding-top: 20px;
-  padding-right: 10px;
-  padding-left: 10px;
-  display: inline-block;
+list-style-type: none;
+}
+
+li{
+  position:relative;
+  float: left;
+  padding-top: 60px;
+  padding-left: 30px;
+  text-align: center;
 }
 
 i{
 width: 150px;
-height: 64px;
+height: 60px;
 height: auto;
 color: lightgrey;
 display: flex;
+text-align: center;
 }
+
 a{
   color: lightgrey;
+}
+
+
+.box-titre{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  color: grey;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+b{
+  background-color: whitesmoke;
+}
+
+.space-tex{
+  position: relative;
+  text-align: justify;
+  padding-top: 25px;
+  padding-bottom: 45px;
+  font-size: 14px;
+  padding-left: 18.5%;
+
+}
+.boxmovie1 img{
+ width: 120px;
+ height: 180px;
+ position: relative;
+ float: left;
+ padding-bottom:40px;
+}
+
+.hulot-tex{
+  position: relative;
+  text-align: justify;
+  padding-top: 25px;
+  padding-bottom: 45px;
+  font-size: 14px;
+  padding-left: 18.5%;
+  height: 180px;
+}
+
+.boxmovie2 img{
+  width: 120px;
+  position: relative;
+  float: left;
+  height: 180px;
+  padding-bottom: 40px;
+}
+
+.alien-tex{
+  position: relative;
+  text-align: justify;
+  font-size: 14px;
+  padding-left: 18.5%;
+  padding-top: 35px;
+  padding-bottom: 45px;
+  height: 180px;
+}
+
+.boxmovie3 img{
+  width: 120px;
+  height: 180px;
+  position: relative;
+  float: left;
+}
+
+.container2 h4{
+  width: 350px;
+  padding-left: 150px;
+  margin-top: 30px;
+  text-align: center;
+  color: grey;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  position: absolute;
+  margin-top: 0;
 }
